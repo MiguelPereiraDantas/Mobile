@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "MeuAppMobile",
+    "slug": "MeuAppMobile",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "navigationBar": {
+      "backgroundColor": "#000"
+    },
+    "splash": {
+      "backgroundColor": "#000"
+    },
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "LOCATION",
+        "ACCESS_WIFI_STATE"
+      ]
+    }
+  }
+}
